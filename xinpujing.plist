@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://120.27.27.181/iphone/taojinba.ipa</string>
+                   <string>http://58.221.44.102:8080/phone/xinpujin.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://120.27.27.181/iphone/icon.png</string>
+                   <string>http://58.221.44.102:8080/phone/icon.png</string>
                </dict>
            </array>
            <key>metadata</key>
@@ -33,7 +33,7 @@
                <key>subtitle</key>
                <string>谢谢安装</string>
                <key>title</key>
-               <string>淘金8</string>
+               <string>新葡京棋牌</string>
            </dict>
        </dict>
    </array>
